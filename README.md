@@ -1,6 +1,6 @@
 # 🎵 Pinay Music
 
-A modern music streaming platform featuring trending tracks, genre browsing, and premium features.
+A modern music streaming platform featuring trending tracks, genre browsing, and premium features. Pinay Music brings the hottest Filipino and international tracks to your fingertips with a sleek, user-friendly interface.
 
 ## 📋 Overview
 
@@ -8,11 +8,11 @@ Pinay Music is a responsive web application that allows users to discover and st
 
 ## ✨ Features
 
-- 🎧 **Music Streaming**: Play and control music with a fully functional audio player
-- 🔥 **Trending Tracks**: Discover the hottest new releases
-- 🎸 **Genre Browsing**: Explore music by different genres
-- 🔐 **User Authentication**: Login and signup functionality
-- ⭐ **Premium Access**: Exclusive content and features for premium users
+- 🎧 **Music Streaming**: Play and control music with a fully functional audio player (currently featuring 4 sample tracks)
+- 🔥 **Trending Tracks**: Display of featured tracks with interactive play functionality
+- 🎸 **Genre Browsing**: Visual display of music genres (currently for display purposes)
+- 🔐 **User Authentication**: Modal-based login and signup UI (frontend implementation only)
+- ⭐ **Premium Features**: Visual showcase of premium features and benefits
 - 📱 **Responsive Design**: Optimized for all device sizes
 
 ## 🛠️ Technologies Used
@@ -39,10 +39,10 @@ Pinay Music is a responsive web application that allows users to discover and st
 
 ## 🎮 Usage
 
-- 🎵 Click on trending tracks to play them
+- 🎵 Click on trending tracks to play the sample music
 - ⏯️ Use the audio player controls to manage playback
-- 🎸 Browse different genres using the genre cards
-- 👤 Sign up or log in to access additional features
+- 🎸 Browse the visual representation of different genres
+- 👤 Click login/signup to view the authentication modals
 
 ## 📸 Screenshots
 
@@ -60,11 +60,11 @@ Here are some screenshots of the Pinay Music platform:
 
 To contribute to this project:
 
-1. Fork the repository
-2. Create a feature branch: `git checkout -b feature-name`
-3. Commit your changes: `git commit -m 'Add some feature'`
-4. Push to the branch: `git push origin feature-name`
-5. Submit a pull request
+This is a frontend prototype. Future development plans include:
+- Backend integration for user authentication
+- Expanded music library
+- Functional genre filtering
+- User playlists and favorites
 
 ## 📞 Contact
 
